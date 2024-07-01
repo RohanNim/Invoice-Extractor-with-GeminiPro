@@ -1,5 +1,3 @@
-#Invoice Extractor
-
 The MultiLanguage Invoice Extractor is a sophisticated tool designed to leverage the capabilities of generative AI to accurately extract key information from invoices across different languages. 
 This project aims to simplify the process of data extraction from invoices, making it accessible and efficient for businesses that handle multi-language documents. The application supports various file formats including 
 JPG, JPEG, and PNG, and can handle file sizes up to 200MB. Users can input specific prompts, such as "Total amount," to extract the relevant information from the uploaded invoice image.
